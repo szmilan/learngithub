@@ -1,3 +1,7 @@
 <?php
-  echo "Hello GitHub!";
+$welcome = true;
+
+if($welcome) {
+  echo "Hello GitHub!!!";
+}
 ?>
